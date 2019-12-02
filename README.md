@@ -1,2 +1,15 @@
 ＃-F 2019年全国电子设计大赛F题纸张计数显示装置，基于STM32F103和TI的FDC2214的软件代码
-Paper count display device of question F in 2019 National Electronic Design Competition
+
+
+#一、任务	
+	设计并制作纸张计数显示装置，其组成如图 1 所示。两块平行极板（极板 A、
+	极板 B）分别通过导线 a 和导线 b 连接到测量显示电路，装置可测量并显示置于
+	极板 A 与极板 B 之间的纸张数量。
+	
+
+	
+	
+	
+	
+	
+	
